@@ -1,6 +1,3 @@
-Sure! Here’s the full **README.md** formatted in one block without the use case section:
-
-````markdown
 # Python Data Structures and Algorithms (DSA) – Comprehensive Guide for Beginners
 
 Welcome to the **Python DSA** project! This repository serves as a comprehensive learning resource for anyone looking to dive deep into **Data Structures and Algorithms** (DSA) using Python in 2024. Whether you're preparing for technical interviews, enhancing your problem-solving skills, or building a foundation for software engineering, this guide will walk you through all the essential concepts with modern Python code examples.
@@ -25,7 +22,6 @@ To get started with the project, clone the repository to your local machine:
 git clone https://github.com/DevBillyM/python-DSA.git
 cd python-DSA
 ```
-````
 
 ---
 
